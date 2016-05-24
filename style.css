@@ -41,3 +41,11 @@
 .boxType3 {
   background: blue;
 }
+
+.boxType4 {
+  background: yellow !important;
+}
+
+.boxType5 {
+  background: black !important;
+}
